@@ -1,0 +1,6 @@
+﻿  LQueue.c
+d:\alva\qg\手游组第三次小组培训\泛型队列\泛型队列\lqueue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\alva\qg\手游组第三次小组培训\泛型队列\泛型队列\aqueue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\alva\qg\手游组第三次小组培训\泛型队列\泛型队列\lqueue.c(71): warning C4098: “ClearLQueue”:“void”函数返回值
+d:\alva\qg\手游组第三次小组培训\泛型队列\泛型队列\lqueue.c(81): warning C4098: “ClearLQueue”:“void”函数返回值
+  泛型队列.vcxproj -> D:\Alva\QG\手游组第三次小组培训\泛型队列\Debug\泛型队列.exe
